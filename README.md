@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.gif" alt="zmo548 - GitHub Header" width="100%">
+  <img src="./assets/header_zacarias_m.gif" alt="zmo548 - GitHub Header" width="100%">
 
   <p><em>Curious by nature. Hands-on by habit.</em></p>
 </div>
