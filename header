@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Zacarías Martín — Computer Engineering, Networks, Cybersecurity and Cloud">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1125"/><stop offset="0.60" stop-color="#172045"/><stop offset="1" stop-color="#052e39"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b69cff"/><stop offset="0.53" stop-color="#79b6ff"/><stop offset="1" stop-color="#55e0ca"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#c3d7ff" opacity="0.11"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1200" height="320" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="320" fill="url(#base)"/>
+    <rect width="1200" height="320" fill="url(#dots)"/>
+    <path d="M0 281 Q270 252 520 288 T1200 255 L1200 320 L0 320Z" fill="#1a4d70" opacity="0.19"/>
+    <path d="M0 313 Q390 264 725 314 T1200 279" fill="none" stroke="#67dccc" stroke-width="2" opacity="0.35"/>
+    <rect x="56" y="51" width="164" height="29" rx="5" fill="#18304a" stroke="#3b6b8b" stroke-width="1"/>
+    <circle cx="74" cy="66" r="4" fill="#5ce0cf"/>
+    <text x="89" y="71" fill="#b9e5eb" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">ZMO548 / LAB</text>
+    <text x="55" y="150" fill="#f6f9ff" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="800">Hi, I'm Zacarías.</text>
+    <rect x="56" y="172" width="545" height="4" rx="2" fill="url(#accent)"/>
+    <text x="56" y="213" fill="#dbe6ff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Computer Engineering Student</text>
+    <text x="56" y="253" fill="#a4c4d4" font-family="Arial, Helvetica, sans-serif" font-size="19">Networks  •  Cybersecurity  •  Cloud  •  Hardware</text>
+
+    <!-- Custom network topology, rather than copied chart-style visuals. -->
+    <g transform="translate(832 154)" fill="none" stroke="#82b9f2" stroke-width="2.2" opacity="0.8">
+      <path d="M0 0 L-82 -63 M0 0 L-84 77 M0 0 L117 -49 M0 0 L126 85 M-82 -63 L-150 -12 M-84 77 L-150 -12 M117 -49 L178 12 M126 85 L178 12" />
+      <path d="M-82 -63 L-22 -103 M117 -49 L127 -107 M-84 77 L-18 131" stroke="#5fdfd2" opacity="0.7" />
+    </g>
+    <g fill="#10233f" stroke="#77d9dd" stroke-width="3">
+      <circle cx="832" cy="154" r="43"/>
+      <circle cx="750" cy="91" r="13"/>
+      <circle cx="748" cy="231" r="13"/>
+      <circle cx="949" cy="105" r="13"/>
+      <circle cx="958" cy="239" r="13"/>
+      <circle cx="682" cy="142" r="11"/>
+      <circle cx="1010" cy="166" r="11"/>
+      <circle cx="810" cy="51" r="9"/>
+      <circle cx="959" cy="47" r="9"/>
+    </g>
+    <g fill="#8ee6e2">
+      <circle cx="832" cy="154" r="17"/>
+      <circle cx="750" cy="91" r="4"/>
+      <circle cx="748" cy="231" r="4"/>
+      <circle cx="949" cy="105" r="4"/>
+      <circle cx="958" cy="239" r="4"/>
+    </g>
+  </g>
+</svg>
